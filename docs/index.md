@@ -8,5 +8,5 @@
 
 |  Package | Description |
 |  --- | --- |
-|  [socket-server](./socket-server.md) |  |
+|  [api-template](./api-template.md) |  |
 
